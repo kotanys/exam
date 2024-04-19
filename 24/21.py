@@ -1,1 +1,0 @@
-print(len([l for l in open(".\\24\\21.txt") if l.count("AB") >= l.count("C") > 1]))
